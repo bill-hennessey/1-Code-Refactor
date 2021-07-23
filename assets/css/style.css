@@ -8,6 +8,7 @@ body {
   background-color: #d9dcd6;
 }
 
+/* Nav bar and unordered list links */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -51,6 +52,7 @@ p {
   font-size: 16px;
 }
 
+/* Section that inludes only the background image */
 .hero {
   height: 800px;
   width: 100%;
@@ -60,21 +62,26 @@ p {
   background-position: center;
 }
 
+/* 3 smaller sections to the left of the aside */
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
+
+/* images for SEO and Social Media Marketing */
 .float-left {
   float: left;
   margin-right: 25px;
 }
 
+/* Image for Online Reputation Mgmt */
 .float-right {
   float: right;
   margin-left: 25px;
 }
 
+/* Aside on the right */
 .benefits {
   margin-right: 20px;
   padding: 20px;
